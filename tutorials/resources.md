@@ -4,4 +4,4 @@
 
 3)Printer: Wanhao Duplicator i3 V2.1 - http://wanhaousa.com/products/duplicator-i3-steel-frame
 
-4)Tutorials: Blenderguru (the blender beginner series)- https://www.youtube.com/user/AndrewPPrice
+4)Tutorials: Blenderguru (the blender beginner series)- https://www.youtube.com/watch?v=VT5oZndzj68&list=PLjEaoINr3zgHs8uzT3yqe4iHGfkCmMJ0P
