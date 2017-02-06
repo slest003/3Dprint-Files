@@ -1,6 +1,8 @@
 # Project Bat
 //simple repos for uploading files from learning Blender tutorials
 
+This folder is specifically for things we create from the tutorials.
+
 
 Updates:
    
